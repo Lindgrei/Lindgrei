@@ -7,23 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/waougrii" target="blank"><img src="https://img.shields.io/twitter/follow/waougrii?logo=twitter&style=for-the-badge" alt="waougrii" /></a> </p>
 
-- 🔭 I’m currently working on [a Webscraper!]((private))
+- 🔭 I’m currently working on [a GUI based app for replacing osu! backgrounds]((private))
 
-- 🌱 I’m currently learning **Python, JavaScript, Java, PHP, C# and C++!**
+- 🌱 I’m currently learning **Python, JavaScript, Java, PHP, C# and C++!**, *Java stage.*
 
 - 👯 I’m looking to collaborate on **any project i am intrested in!**
 
 - 🤝 I’m looking for help with **making the world a better place!**
 
-- 👨‍💻 All of my projects are available at [(not available)]((not available))
-
-- 📝 I regularly write articles on [(not available)]((not available))
-
 - 💬 Ask me about **nothing, since I'm still a beginner**
 
-- 📫 How to reach me **waougri@gmail.com**
-
-- 📄 Know about my experiences [(not available)]((not available))
 
 - ⚡ Fun fact **All the stuff you find here is still in learning process, I AM NOT IN ANY WAY COMFORTABLE USING IT!**
 
