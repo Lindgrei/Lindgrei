@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/waougrii" target="blank"><img src="https://img.shields.io/twitter/follow/waougrii?logo=twitter&style=for-the-badge" alt="waougrii" /></a> </p>
 
-- 🔭 I’m currently working on [a GUI based app for replacing osu! backgrounds]((private))
+- 🔭 I’m currently working on [Learning C/C++]((private))
 
 - 🌱 I’m currently learning **Python, JavaScript, Java, PHP, C# and C++!**, *Java stage.*
 
